@@ -7,3 +7,12 @@ const ItemColl = mongoose.model("Items", ItemSchema);
 module.exports = ItemColl;
 
 console.log("hey Amit");
+console.log("Added new console.");
+console.log("Added new console.");
+console.log("Added new console.");
+console.log("Added new console.");
+console.log("Added new console.");
+console.log("Added new console.");
+console.log("Added new console.");
+console.log("Added new console.");
+console.log("Added new console.");
